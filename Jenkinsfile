@@ -3,7 +3,7 @@ agent any
 stages {
   stage ('1st Stage') {
    steps {
-    al;sdjkflajksd
+     sh 'echo "Hello, welcome to the DevOps Class"'
    }
   }
 }
