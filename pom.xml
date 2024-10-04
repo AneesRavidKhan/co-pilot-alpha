@@ -1,2 +1,5 @@
-<dependencies>
-</dependencies>
+<Dependencies>
+  <Dependency>
+    <name>Dep-name</name>
+  </Dependency>
+</Dependencies>
